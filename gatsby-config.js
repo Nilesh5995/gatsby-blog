@@ -5,6 +5,7 @@ module.exports = {
       options: {},
     },
   ],
+  pathPrefix: "/gatsby-blog",
   // Customize your site metadata:
   siteMetadata: {
     title: `My Blog Title`,
